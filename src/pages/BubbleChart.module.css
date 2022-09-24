@@ -1,0 +1,901 @@
+.signatureB,
+.titleDiv,
+.titleDiv1 {
+  position: absolute;
+  display: inline-block;
+}
+.signatureB {
+  top: 140px;
+  left: calc(50% - -87px);
+  font-size: 10px;
+  letter-spacing: 5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #3d3d60;
+}
+.titleDiv,
+.titleDiv1 {
+  font-weight: 800;
+}
+.titleDiv {
+  top: 191px;
+  left: calc(50% - 187px);
+  font-size: 72px;
+  letter-spacing: -1.75px;
+  line-height: 118px;
+  color: #16162b;
+}
+.titleDiv1 {
+  top: calc(50% - 445px);
+  left: 60px;
+  font-size: 34px;
+  letter-spacing: -0.44px;
+  line-height: 44px;
+}
+.bgLinesIcon,
+.bgLinesIcon1,
+.bubbleChartIcon {
+  position: absolute;
+  height: 83.29%;
+  width: 75.09%;
+  top: 8.35%;
+  right: 11.12%;
+  bottom: 8.35%;
+  left: 13.79%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.bgLinesIcon1,
+.bubbleChartIcon {
+  height: 100%;
+  width: 90.15%;
+  top: 0;
+  right: 3.59%;
+  bottom: 0;
+  left: 6.26%;
+}
+.bubbleChartIcon {
+  height: 78.53%;
+  width: 118.54%;
+  top: 12.85%;
+  right: -9.27%;
+  bottom: 8.61%;
+  left: -9.27%;
+}
+.bubble1Icon {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 258px;
+  height: 258px;
+}
+.timeDiv,
+.tittleDiv,
+.valueB {
+  position: absolute;
+  letter-spacing: 0.44px;
+  display: inline-block;
+}
+.timeDiv {
+  height: 8%;
+  width: 23.2%;
+  top: 60.8%;
+  right: 37.6%;
+  bottom: 31.2%;
+  left: 39.2%;
+  line-height: 20px;
+  color: #7878b6;
+}
+.tittleDiv,
+.valueB {
+  height: 9.6%;
+  width: 38.4%;
+  top: 40.4%;
+  right: 30%;
+  bottom: 50%;
+  left: 31.6%;
+  font-size: 16px;
+  line-height: 24px;
+}
+.valueB {
+  height: 12.8%;
+  width: 30.4%;
+  top: 48.8%;
+  right: 34%;
+  bottom: 38.4%;
+  left: 35.6%;
+  font-size: 20px;
+  letter-spacing: 0.15px;
+  line-height: 32px;
+}
+.investmentsDiv {
+  position: absolute;
+  top: 264px;
+  left: 318px;
+  width: 250px;
+  height: 250px;
+  font-size: 14px;
+}
+.bubble3Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.timeDiv1,
+.titleDiv2,
+.valueB1 {
+  position: absolute;
+  display: inline-block;
+}
+.timeDiv1 {
+  height: 11.43%;
+  width: 33.14%;
+  top: 62.86%;
+  right: 36%;
+  bottom: 25.71%;
+  left: 30.86%;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  color: #7878b6;
+}
+.titleDiv2,
+.valueB1 {
+  height: 18.29%;
+  width: 43.43%;
+  top: 45.71%;
+  right: 30.86%;
+  bottom: 36%;
+  left: 25.71%;
+  font-size: 20px;
+  letter-spacing: 0.15px;
+  line-height: 32px;
+}
+.titleDiv2 {
+  height: 13.71%;
+  width: 30.29%;
+  top: 33.71%;
+  right: 37.14%;
+  bottom: 52.57%;
+  left: 32.57%;
+  font-size: 16px;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+}
+.designDiv {
+  position: absolute;
+  height: 22.49%;
+  width: 20.28%;
+  top: 61.57%;
+  right: 57.71%;
+  bottom: 15.94%;
+  left: 22.02%;
+  font-size: 14px;
+}
+.titleDiv3,
+.valueDiv {
+  position: absolute;
+  height: 16.78%;
+  width: 46.85%;
+  top: 48.25%;
+  right: 26.57%;
+  bottom: 34.97%;
+  left: 26.57%;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  display: inline-block;
+}
+.titleDiv3 {
+  height: 11.19%;
+  width: 32.17%;
+  top: 34.97%;
+  right: 33.57%;
+  bottom: 53.85%;
+  left: 34.27%;
+  font-size: 12px;
+  letter-spacing: 0.4px;
+  line-height: 16px;
+}
+.financeDiv {
+  position: absolute;
+  height: 18.38%;
+  width: 16.57%;
+  top: 14.27%;
+  right: 33.37%;
+  bottom: 67.35%;
+  left: 50.06%;
+}
+.titleDiv4,
+.valueDiv1 {
+  position: absolute;
+  height: 20%;
+  width: 51.67%;
+  top: 47.5%;
+  right: 25%;
+  bottom: 32.5%;
+  left: 23.33%;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  display: inline-block;
+}
+.titleDiv4 {
+  height: 13.33%;
+  width: 44.17%;
+  top: 31.67%;
+  right: 27.5%;
+  bottom: 55%;
+  left: 28.33%;
+  font-size: 12px;
+  letter-spacing: 0.4px;
+  line-height: 16px;
+}
+.businessDiv {
+  position: absolute;
+  height: 15.42%;
+  width: 13.9%;
+  top: 40.62%;
+  right: 17.38%;
+  bottom: 43.96%;
+  left: 68.71%;
+}
+.titleDiv5,
+.valueDiv2 {
+  position: absolute;
+  height: 16.78%;
+  width: 43.36%;
+  top: 48.95%;
+  right: 29.37%;
+  bottom: 34.27%;
+  left: 27.27%;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  display: inline-block;
+}
+.titleDiv5 {
+  height: 11.19%;
+  width: 55.94%;
+  top: 35.66%;
+  right: 22.38%;
+  bottom: 53.15%;
+  left: 21.68%;
+  font-size: 12px;
+  letter-spacing: 0.4px;
+  line-height: 16px;
+}
+.developmentDiv {
+  position: absolute;
+  height: 18.38%;
+  width: 16.57%;
+  top: 28.41%;
+  right: 66.28%;
+  bottom: 53.21%;
+  left: 17.15%;
+}
+.bigWidgetBubbleChart {
+  position: absolute;
+  top: calc(50% - 407px);
+  left: calc(50% - 335px);
+  width: 863px;
+  height: 778px;
+  text-align: center;
+  font-size: 16px;
+}
+.periodB {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 8px);
+  right: 0;
+  left: 0;
+  letter-spacing: 0.02px;
+  display: inline-block;
+}
+.timePeriodDiv {
+  position: relative;
+  width: 53px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.hoverDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 16px;
+  background-color: #3247e5;
+  box-shadow: 0 0 15px rgba(50, 71, 230, 0.3);
+}
+.dateRangePicker {
+  position: absolute;
+  top: 176px;
+  left: calc(50% - 37px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  text-align: center;
+  font-size: 13px;
+  font-family: Mulish;
+}
+.bubbleIcon {
+  position: absolute;
+  top: calc(50% - 349px);
+  left: calc(50% - -385px);
+  width: 265px;
+  height: 265px;
+}
+.bubbleIcon1,
+.bubbleIcon2 {
+  position: absolute;
+  top: calc(50% - -154px);
+  left: calc(50% - 371px);
+  width: 221px;
+  height: 221px;
+}
+.bubbleIcon2 {
+  top: calc(50% - 397px);
+  left: calc(50% - 423px);
+  width: 207px;
+  height: 207px;
+}
+.bgDiv,
+.panelGroupIcon {
+  position: absolute;
+  top: 396px;
+  left: 1812px;
+  width: 46px;
+  height: 298px;
+}
+.bgDiv {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #191932;
+}
+.fATALISDataVisualisation,
+.uNBOUNDEDTECHNOLOGIES2022 {
+  position: absolute;
+  letter-spacing: 1.5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.fATALISDataVisualisation {
+  height: 42.11%;
+  top: 28.95%;
+  bottom: 28.95%;
+  left: 67px;
+}
+.uNBOUNDEDTECHNOLOGIES2022 {
+  top: calc(50% - 8px);
+  right: 67px;
+  text-align: right;
+}
+.footerDiv {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 3px;
+  left: 0;
+  height: 38px;
+  font-size: 10px;
+  color: #5a5a89;
+}
+.valueB2 {
+  top: calc(50% - 7px);
+  left: calc(50% - 50px);
+  letter-spacing: -1.5px;
+  line-height: 80px;
+  display: inline-block;
+}
+.icon,
+.titleB,
+.valueB2 {
+  position: absolute;
+}
+.titleB {
+  top: calc(50% - 11px);
+  left: calc(50% - 44px);
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  display: inline-block;
+  color: #5a5a89;
+}
+.icon {
+  top: 0;
+  left: 27px;
+  width: 46px;
+  height: 46px;
+}
+.informerTrendGoods {
+  position: absolute;
+  width: 5.21%;
+  right: 53.8%;
+  bottom: 89px;
+  left: 40.99%;
+  height: 146px;
+  text-align: center;
+}
+.titleB1,
+.valueB3 {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: calc(50% - 91px);
+  letter-spacing: -1.5px;
+  line-height: 80px;
+  display: inline-block;
+}
+.titleB1 {
+  top: calc(50% - 11px);
+  left: calc(50% - 53px);
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #5a5a89;
+}
+.informerTrendGoods1,
+.informerTrendGoods2 {
+  position: absolute;
+  width: 5.21%;
+  right: 41.3%;
+  bottom: 89px;
+  left: 53.49%;
+  height: 146px;
+  text-align: center;
+}
+.informerTrendGoods2 {
+  right: 28.8%;
+  left: 65.99%;
+}
+.fatalis1Icon,
+.logoIcon {
+  position: absolute;
+  top: -7.85px;
+  left: -10.36px;
+  width: 47.79px;
+  height: 47.79px;
+}
+.fatalis1Icon {
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 27px;
+  object-fit: cover;
+}
+.groupDiv {
+  position: absolute;
+  top: -4px;
+  left: -2px;
+  width: 25.07px;
+  height: 27.58px;
+}
+.fATALISDiv {
+  position: absolute;
+  top: calc(50% - 11.79px);
+  left: 33.32px;
+  display: inline-block;
+}
+.logoDiv {
+  top: 21px;
+  left: 64px;
+  width: 101.32px;
+  height: 23.58px;
+}
+.bgDiv2,
+.icon3,
+.logoDiv {
+  position: absolute;
+}
+.bgDiv2 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #05050f;
+}
+.icon3 {
+  top: calc(50% - 7.5px);
+  left: calc(50% - -229.5px);
+  width: 15.24px;
+  height: 15.24px;
+}
+.searchDiv,
+.tabDiv {
+  position: absolute;
+  top: 14px;
+  left: 423px;
+  width: 520px;
+  height: 32px;
+}
+.tabDiv {
+  height: 5%;
+  width: 5.52%;
+  top: 95%;
+  right: 33.8%;
+  bottom: 0;
+  left: 60.68%;
+  background-color: #176bf8;
+}
+.labelDiv,
+.labelDiv1 {
+  position: relative;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  display: inline-block;
+}
+.labelDiv1 {
+  color: #fff;
+}
+.sectionDiv {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - -67px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 84px;
+  font-size: 16px;
+  color: #6a6a9f;
+  font-family: "Open Sans";
+}
+.optionIcon,
+.profileIcon {
+  position: absolute;
+  top: 20px;
+  left: 1838px;
+  width: 20px;
+  height: 20px;
+}
+.profileIcon {
+  top: 19px;
+  left: 1790px;
+  width: 16px;
+  height: 21px;
+}
+.navigationBarDiv {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 60px;
+  font-size: 20.51px;
+  font-family: Archivo;
+}
+.chartDoubleBigCircleChar {
+  position: relative;
+  width: 146px;
+  height: 146px;
+  flex-shrink: 0;
+}
+.nameDiv {
+  position: relative;
+  letter-spacing: 0.44px;
+  line-height: 32px;
+  display: inline-block;
+  width: 225px;
+}
+.titleDiv6 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.amountB {
+  position: relative;
+  line-height: 36px;
+  display: inline-block;
+}
+.arrowUpIcon,
+.percentDiv {
+  position: relative;
+  flex-shrink: 0;
+}
+.arrowUpIcon {
+  width: 14px;
+  height: 24px;
+  overflow: hidden;
+}
+.percentDiv {
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 28px;
+}
+.indicatorDiv,
+.valueDiv3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.indicatorDiv {
+  height: 26px;
+  font-size: 14px;
+  color: #5eff5a;
+}
+.valueDiv3 {
+  gap: 6px;
+  font-size: 24px;
+}
+.detailDiv {
+  position: relative;
+  font-size: 13px;
+  letter-spacing: 0.02px;
+  line-height: 17px;
+  font-family: Mulish;
+  display: inline-block;
+  width: 230px;
+  opacity: 0.6;
+  mix-blend-mode: normal;
+}
+.graphDiv,
+.infoDiv {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.graphDiv {
+  border-radius: 10px;
+  background-color: #191932;
+  padding: 20px 30px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.amountDiv,
+.nameDiv1 {
+  position: relative;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  display: inline-block;
+  width: 98px;
+  flex-shrink: 0;
+}
+.amountDiv {
+  color: #9292c1;
+  width: 32px;
+}
+.columnDiv,
+.columnDiv1,
+.columnDiv2,
+.columnDiv3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
+  background-color: #05050f;
+  width: 17px;
+  height: 21px;
+  opacity: 0.7;
+}
+.columnDiv1,
+.columnDiv2,
+.columnDiv3 {
+  left: 19px;
+  width: 14px;
+}
+.columnDiv2,
+.columnDiv3 {
+  left: 35px;
+}
+.columnDiv3 {
+  left: 51px;
+  width: 17px;
+}
+.chartIcon {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 68px;
+  height: 13px;
+}
+.graphDiv1 {
+  position: relative;
+  width: 68px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.rowDiv {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.chartIcon1,
+.chartIcon2 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 68px;
+  height: 12.95px;
+}
+.chartIcon2 {
+  top: 5px;
+  width: 67px;
+  height: 9.88px;
+}
+.tableDiv,
+.widgetMSizeCombinedCir {
+  border-radius: 10px;
+  background-color: #191932;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.tableDiv {
+  width: 291px;
+  padding: 20px 30px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 11px;
+  text-align: left;
+  font-size: 14px;
+}
+.widgetMSizeCombinedCir {
+  position: absolute;
+  top: calc(50% - 376px);
+  left: 60px;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+}
+.nameDiv4 {
+  position: relative;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  display: inline-block;
+  width: 129px;
+}
+.titleDiv7 {
+  width: 134px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.amountDiv3 {
+  position: relative;
+  letter-spacing: -0.44px;
+  line-height: 44px;
+  font-weight: 800;
+  display: inline-block;
+}
+.percentDiv1 {
+  position: relative;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  width: 37px;
+  height: 26px;
+  flex-shrink: 0;
+}
+.valueDiv4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  font-size: 34px;
+}
+.detailDiv1 {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.4px;
+  line-height: 16px;
+  display: inline-block;
+  width: 230px;
+  opacity: 0.6;
+  mix-blend-mode: normal;
+}
+.widgetMSizeIndex {
+  position: absolute;
+  top: calc(50% - -66px);
+  left: 60px;
+  border-radius: 10px;
+  background-color: #14142b;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 30px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+  font-size: 16px;
+}
+.amountDiv4 {
+  color: #9292c1;
+}
+.amountDiv4,
+.summaryDiv1 {
+  position: relative;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  display: inline-block;
+  width: 50px;
+  flex-shrink: 0;
+}
+.summaryDiv {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.arrowUpIcon3 {
+  position: relative;
+  width: 14px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: none;
+}
+.statusDiv,
+.tableIndicatorTable {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.statusDiv {
+  height: 20px;
+  flex-direction: row;
+  gap: 10px;
+}
+.tableIndicatorTable {
+  position: absolute;
+  top: calc(50% - -224px);
+  left: 60px;
+  border-radius: 10px;
+  background-color: #191932;
+  flex-direction: column;
+  padding: 20px 30px;
+  box-sizing: border-box;
+  gap: 14px;
+  font-size: 14px;
+}
+.bubbleChartDiv {
+  position: relative;
+  background-color: #05050f;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 60px;
+  color: #fff;
+  font-family: "Open Sans";
+}
